@@ -1,6 +1,6 @@
 [project]
 name = "cookiecutter-uv"
-version = "0.0.1"
+version = "1.0.0"
 description = "This is a template repository for Python projects that use uv for their dependency management."
 authors = [{ name = "sahma19", email = "55732914+sahma19@users.noreply.github.com" }]
 readme = "README.md"
